@@ -1,4 +1,1 @@
-## Hi, I'm Construct, Full-Stack Developers!
-<div align="center">
-  <a href="https://github.com/SiangStudioGit">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siangstudiogit &theme=radical)
