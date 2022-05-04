@@ -1,4 +1,4 @@
-## Hi, I'm SiangStudio, Developer
+## Hi, I'm SiangStudio, Developers
 <div align="center">
   <a href="https://github.com/SiangStudioGit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiangStudioGit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
